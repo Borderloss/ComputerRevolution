@@ -1,0 +1,17 @@
+[
+    {
+        "modid":"ComputerRevolution",
+        "name":"Computer Revolution",
+        "description":"",
+        "version": "1.0",
+        "mcversion": "1.11.2",
+        "url": "",
+        "updateUrl": "",
+        "authorList":[
+         "Borderloss"
+        ],
+        "credits":"Borderloss",
+        "logoFile":"",
+        "screenshots":[]
+    }
+]
